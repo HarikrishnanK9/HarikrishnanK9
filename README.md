@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarikrishnanK9
-- 👀 I’m interested in Artificial Intelligence,Big data Analytics,Data Science and Cyber Security
+- 👀 I’m interested in Artificial Intelligence,Data Science and Cyber Security
 - 🌱 I’m currently learning LLMs
 
 <!---
