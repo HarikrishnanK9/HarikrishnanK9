@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarikrishnanK9
+- 👋 Hi, I’m @Harikrishnan
 - 👀 I’m interested in Artificial Intelligence,Data Science and Cyber Security
 - 🌱 I’m An AI Engineer
 
