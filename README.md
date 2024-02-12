@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Harikrishnan
 - 👀 I’m interested in Artificial Intelligence,Data Science and Cyber Security
-- 🌱 I’m An AI Engineer
+- 🌱 I’m a AI & Cyber security Enthusiast
+
+  
 
 <!---
 HarikrishnanK9/HarikrishnanK9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
