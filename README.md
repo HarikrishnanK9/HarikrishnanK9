@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Harikrishnan
-- 👀 I’m interested in Artificial Intelligence,Data Science and Cyber Security
-- 🌱 I’m a AI & Cyber security Enthusiast
+- 👀 I’m interested in Artificial Intelligence,Data Science,AI Assisted Digital Art and Cyber Security
 
   
 
