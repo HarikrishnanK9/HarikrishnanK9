@@ -3,5 +3,5 @@
 👀 I’m interested in:
 - Artificial Intelligence
 - Data Science
-- AI Assisted Digital Art
+- Digital Art
 - Cyber Security
