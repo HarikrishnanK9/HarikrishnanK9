@@ -2,6 +2,8 @@
 
 👀 I’m interested in:
 - Artificial Intelligence
+- Large Language Models
+- Bigdata
 - Data Science
 - Digital Art
 - Cyber Security
