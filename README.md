@@ -11,7 +11,11 @@
 
   ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
- [Parsing PDFs and Ingesting Data into Neo4j Using Python and Cypher](https://medium.com/@harikrishnank497/parsing-pdfs-and-ingesting-data-into-neo4j-using-python-4e0103144903)
+
+[Enhancing Movie Recommendations with TF-IDF Vectorization and K-Means Clustering](https://medium.com/@harikrishnank497/enhancing-movie-recommendations-with-tf-idf-vectorization-and-k-means-clustering-183f19a4e4f3)
+[Parsing PDFs and Ingesting Data into Neo4j Using Python and Cypher](https://medium.com/@harikrishnank497/parsing-pdfs-and-ingesting-data-into-neo4j-using-python-4e0103144903)
+
+
 <!-- BLOG-POST-LIST:END -->
 
 
