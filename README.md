@@ -59,6 +59,10 @@
 
 ---
 
+### 🏆 Certifications & Badges
+
+#### Deep Learning using TensorFlow
+[![Deep Learning using TensorFlow](https://img.shields.io/badge/Deep%20Learning%20using%20TensorFlow-0074D9?style=for-the-badge)](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url)
 
 
 
