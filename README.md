@@ -28,11 +28,52 @@
 
 ---
 
+---
+
+### 🛠 Skills and Tools
+
+#### **Programming Languages & Frameworks**
+- **Python** (Expert)
+  - Libraries: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `SciPy`
+  - **Artificial Intelligence & Machine Learning**:
+    - AI Libraries: `TensorFlow`, `Keras`, `PyTorch`
+    - **NLP Libraries**: `NLTK`, `spaCy`, `Hugging Face`, `OCR Tools` (e.g., `Tesseract`, `EasyOCR`)
+    - **Image/Video Processing**: `OpenCV`, `YOLO`, `Detectron2`
+    - **LLM Fine-tuning & Deployment**: `Hugging Face`
+    - **Frameworks**: `LangChain`, `LLamaIndex`
+- **Big Data Tools**
+  - **Apache Spark**, **Hadoop**, **Pig**, **Sqoop**
+
+#### **Databases**
+- **Relational Databases**
+  - **PostgreSQL**, **MySQL**, **SQL**
+  
+- **NoSQL & Vector Databases**
+  - **Faiss**, **Chroma**, **Qdrant**,**Neo4j**, **Redis**
+
+#### **Machine Learning Operations (MLOps)**
+- Tools: `Metaflow`, `Airflow`, `MLflow`
+
+#### **LLM Tools & APIs**
+- **OpenAI** (ChatGPT, GPT-4), **Gemini**
+- **Hugging Face** (Transformers, Model Fine-tuning)
+
+---
+
+
+
+
 ### 🛠 Tech & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![AI/ML](https://img.shields.io/badge/-AI/ML-333?style=flat&logo=tensorflow)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-333?style=flat&logo=neo4j)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-333?style=flat&logo=jupyter)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apachespark)
+![Hadoop](https://img.shields.io/badge/-Hadoop-333?style=flat&logo=apachehadoop)
+![Neo4j](https://img.shields.io/badge/-Neo4j-333?style=flat&logo=neo4j)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![Airflow](https://img.shields.io/badge/-Airflow-333?style=flat&logo=apacheairflow)
+![MLflow](https://img.shields.io/badge/-MLflow-333?style=flat&logo=mlflow)
 
 ---
 
