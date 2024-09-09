@@ -80,23 +80,12 @@
 ### 🏆 Certifications & Badges
 
 #### Deep Learning using TensorFlow
-[![Deep Learning using TensorFlow](https://img.shields.io/badge/Deep%20Learning%20using%20TensorFlow-0074D9?style=for-the-badge)](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c5ffa435-a288-470e-8de9-0b401a557401" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[View Badge](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url)
 
 
 
-### 🛠 Tech & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![AI/ML](https://img.shields.io/badge/-AI/ML-333?style=flat&logo=tensorflow)
-![Neo4j](https://img.shields.io/badge/-Neo4j-333?style=flat&logo=neo4j)
-![Data Science](https://img.shields.io/badge/-Data%20Science-333?style=flat&logo=jupyter)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apachespark)
-![Hadoop](https://img.shields.io/badge/-Hadoop-333?style=flat&logo=apachehadoop)
-![Neo4j](https://img.shields.io/badge/-Neo4j-333?style=flat&logo=neo4j)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![Airflow](https://img.shields.io/badge/-Airflow-333?style=flat&logo=apacheairflow)
-![MLflow](https://img.shields.io/badge/-MLflow-333?style=flat&logo=mlflow)
-
----
 
 ### 📊 GitHub Activity Graph:
 [![Harikrishnan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarikrishnanK9&theme=github)](https://github.com/HarikrishnanK9)
