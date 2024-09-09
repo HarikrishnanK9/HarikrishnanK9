@@ -31,31 +31,22 @@
 
 ### 🛠 Skills and Tools
 
-#### **Programming Languages & Frameworks**
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![AI/ML](https://img.shields.io/badge/-AI/ML-333?style=flat&logo=tensorflow)
 ![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=langchain)
 ![LLamaIndex](https://img.shields.io/badge/-LLamaIndex-333?style=flat&logo=llamaindex)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-
-#### **Artificial Intelligence & Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
 ![spaCy](https://img.shields.io/badge/-spaCy-333?style=flat&logo=spacy)
 ![OCR Tools](https://img.shields.io/badge/-OCR%20Tools-333?style=flat&logo=ocr)
-
-#### **Image/Video Processing**
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
 ![YOLO](https://img.shields.io/badge/-YOLO-333?style=flat&logo=yolo)
 ![Detectron2](https://img.shields.io/badge/-Detectron2-333?style=flat&logo=detectron2)
-
-#### **Big Data Tools**
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apachespark)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333?style=flat&logo=apachehadoop)
 ![Pig](https://img.shields.io/badge/-Pig-333?style=flat&logo=pig)
 ![Sqoop](https://img.shields.io/badge/-Sqoop-333?style=flat&logo=sqoop)
-
-#### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sql)
@@ -64,13 +55,9 @@
 ![Faiss](https://img.shields.io/badge/-Faiss-333?style=flat&logo=faiss)
 ![Chroma](https://img.shields.io/badge/-Chroma-333?style=flat&logo=chroma)
 ![Qdrant](https://img.shields.io/badge/-Qdrant-333?style=flat&logo=qdrant)
-
-#### **Machine Learning Operations (MLOps)**
 ![Metaflow](https://img.shields.io/badge/-Metaflow-333?style=flat&logo=metaflow)
 ![Airflow](https://img.shields.io/badge/-Airflow-333?style=flat&logo=apacheairflow)
 ![MLflow](https://img.shields.io/badge/-MLflow-333?style=flat&logo=mlflow)
-
-#### **LLM Tools & APIs**
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333?style=flat&logo=huggingface)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
 ![Gemini](https://img.shields.io/badge/-Gemini-333?style=flat&logo=gemini)
