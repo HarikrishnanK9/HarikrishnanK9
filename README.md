@@ -80,8 +80,7 @@
 ### 🏆 Certifications & Badges
 
 #### Deep Learning using TensorFlow
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c5ffa435-a288-470e-8de9-0b401a557401" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 [View Badge](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url)
 ---
 
