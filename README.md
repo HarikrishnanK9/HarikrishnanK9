@@ -79,9 +79,7 @@
 
 ### 🏆 Certifications & Badges
 
-#### Deep Learning using TensorFlow
-
-[View Badge](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url)
+- [Deep Learning using TensorFlow](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url)
 ---
 
 
