@@ -63,7 +63,7 @@
 ![Gemini](https://img.shields.io/badge/-Gemini-333?style=flat&logo=gemini)
 
 ---
-![Skill Network](./3d_network.gif)
+![Skill Network](./3d_network1.gif)
 
 
 
