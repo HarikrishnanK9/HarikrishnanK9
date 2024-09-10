@@ -65,14 +65,15 @@
 ---
 
 ### 🏆 Certifications & Badges
-- [Deep Learning using TensorFlow](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url)
-- [Machine Learning with Python - Level 1](https://www.credly.com/badges/e6695394-c86d-428c-a337-9a663dff18b0/public_url)
-- [Applied Data Science with Python - Level 2](https://www.credly.com/badges/b2fc5872-1cef-4b1f-93c3-ec3912455b0b/public_url)
-- [Data Visualization Using Python](https://www.credly.com/badges/612c776c-2915-4e5d-9c65-984edbde1705/public_url)
-- [Python for Data Science](https://www.credly.com/badges/c3c68470-3177-42ab-824f-3c5b6ea772d1/public_url)
-- [Introduction to Data Science](https://www.credly.com/badges/db20bce8-c6a6-4b32-a4be-4af3822378ba/public_url)
-- [Python Essentials 1](https://www.credly.com/badges/40e5a9e3-1863-4e7d-8cac-2b767b5be08d/public_url)
-- [Introduction to Cybersecurity](https://www.credly.com/badges/50528dd9-f6a3-4cd0-a651-d7b4dd09c289/public_url)
+- [Deep Learning using TensorFlow](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url) – Issued by: IBM
+- [Machine Learning with Python - Level 1](https://www.credly.com/badges/e6695394-c86d-428c-a337-9a663dff18b0/public_url) – Issued by: IBM
+- [Applied Data Science with Python - Level 2](https://www.credly.com/badges/b2fc5872-1cef-4b1f-93c3-ec3912455b0b/public_url) – Issued by: IBM
+- [Data Visualization Using Python](https://www.credly.com/badges/612c776c-2915-4e5d-9c65-984edbde1705/public_url) – Issued by: IBM
+- [Python for Data Science](https://www.credly.com/badges/c3c68470-3177-42ab-824f-3c5b6ea772d1/public_url) – Issued by: IBM
+- [Introduction to Data Science](https://www.credly.com/badges/db20bce8-c6a6-4b32-a4be-4af3822378ba/public_url) – Issued by: IBM
+- [Python Essentials 1](https://www.credly.com/badges/40e5a9e3-1863-4e7d-8cac-2b767b5be08d/public_url) – Issued by: Cisco
+- [Introduction to Cybersecurity](https://www.credly.com/badges/50528dd9-f6a3-4cd0-a651-d7b4dd09c289/public_url) – Issued by: Cisco
+
 ---
 
 
