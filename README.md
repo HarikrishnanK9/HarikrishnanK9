@@ -63,6 +63,10 @@
 ![Gemini](https://img.shields.io/badge/-Gemini-333?style=flat&logo=gemini)
 
 ---
+![Skill Network](./3d_network.gif)
+
+
+
 
 ### 🏆 Certifications & Badges
 - [Deep Learning using TensorFlow](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url) – Issued by: IBM
