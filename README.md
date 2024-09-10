@@ -11,12 +11,12 @@
 ---
 
 ### 👀 I'm interested in:
-- Artificial Intelligence
-- Large Language Models
-- Big Data
-- Data Science
-- Digital Art
-- Cyber Security
+- 💻 **Artificial Intelligence**
+- 🤖 **Large Language Models**
+- 🧠 **Big Data**
+- 📊 **Data Science**
+- 🎨 **Digital Art**
+- 🔐 **Cyber Security**
 
 ---
 
