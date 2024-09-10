@@ -73,6 +73,9 @@
 - [Introduction to Data Science](https://www.credly.com/badges/db20bce8-c6a6-4b32-a4be-4af3822378ba/public_url) – Issued by: Cisco
 - [Python Essentials 1](https://www.credly.com/badges/40e5a9e3-1863-4e7d-8cac-2b767b5be08d/public_url) – Issued by: Cisco
 - [Introduction to Cybersecurity](https://www.credly.com/badges/50528dd9-f6a3-4cd0-a651-d7b4dd09c289/public_url) – Issued by: Cisco
+- [Neo4j Fundamentals](https://graphacademy.neo4j.com/c/05a53d47-1ce0-4561-869f-5625ced665db/) - Issued by: Neo4j
+- [Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/da255358-a9e4-4edf-9c21-3ab9a12aff7c/badges/6012229) - Issued by:Google Cloud
+- [Introduction to Large Language Models](https://www.cloudskillsboost.google/public_profiles/da255358-a9e4-4edf-9c21-3ab9a12aff7c/badges/6026067) - Issued by:Google Cloud
 
 ---
 
