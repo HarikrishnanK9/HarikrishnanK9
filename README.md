@@ -84,14 +84,6 @@
 [![Harikrishnan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarikrishnanK9&theme=github)](https://github.com/HarikrishnanK9)
 
 
----
-
-### 🛠 Interactive Skills Network
-
-You can view the interactive 3D network diagram below:
-
-<iframe src="interactive_network_plot.html" width="100%" height="600px" frameborder="0"></iframe>
-
 
 
 
