@@ -35,41 +35,42 @@
 - [Parsing PDFs and Ingesting Data into Neo4j Using Python and Cypher](https://medium.com/@harikrishnank497/parsing-pdfs-and-ingesting-data-into-neo4j-using-python-4e0103144903)
 <!-- BLOG-POST-LIST:END -->
 
+
 ---
 
-
 ### 🛠 Skills and Tools
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![AI/ML](https://img.shields.io/badge/-AI/ML-333?style=flat&logo=tensorflow)
-![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=langchain)
-![LLamaIndex](https://img.shields.io/badge/-LLamaIndex-333?style=flat&logo=llamaindex)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
-![spaCy](https://img.shields.io/badge/-spaCy-333?style=flat&logo=spacy)
-![OCR Tools](https://img.shields.io/badge/-OCR%20Tools-333?style=flat&logo=ocr)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
-![YOLO](https://img.shields.io/badge/-YOLO-333?style=flat&logo=yolo)
-![Detectron2](https://img.shields.io/badge/-Detectron2-333?style=flat&logo=detectron2)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apachespark)
-![Hadoop](https://img.shields.io/badge/-Hadoop-333?style=flat&logo=apachehadoop)
-![Pig](https://img.shields.io/badge/-Pig-333?style=flat&logo=pig)
-![Sqoop](https://img.shields.io/badge/-Sqoop-333?style=flat&logo=sqoop)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sql)
-![Neo4j](https://img.shields.io/badge/-Neo4j-333?style=flat&logo=neo4j)
-![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
-![Faiss](https://img.shields.io/badge/-Faiss-333?style=flat&logo=faiss)
-![Chroma](https://img.shields.io/badge/-Chroma-333?style=flat&logo=chroma)
-![Qdrant](https://img.shields.io/badge/-Qdrant-333?style=flat&logo=qdrant)
-![Metaflow](https://img.shields.io/badge/-Metaflow-333?style=flat&logo=metaflow)
-![Airflow](https://img.shields.io/badge/-Airflow-333?style=flat&logo=apacheairflow)
-![MLflow](https://img.shields.io/badge/-MLflow-333?style=flat&logo=mlflow)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333?style=flat&logo=huggingface)
-![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
-![Gemini](https://img.shields.io/badge/-Gemini-333?style=flat&logo=gemini)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-008000?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/LLamaIndex-008080?style=for-the-badge&logo=llamaindex&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white">
+  <img src="https://img.shields.io/badge/OCR_Tools-9B59B6?style=for-the-badge&logo=ocr&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLO-FF6347?style=for-the-badge&logo=yolo&logoColor=white">
+  <img src="https://img.shields.io/badge/Detectron2-003F87?style=for-the-badge&logo=detectron2&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
+  <img src="https://img.shields.io/badge/Pig-FFB612?style=for-the-badge&logo=pig&logoColor=white">
+  <img src="https://img.shields.io/badge/Sqoop-4CAF50?style=for-the-badge&logo=sqoop&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Faiss-000000?style=for-the-badge&logo=faiss&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Chroma-FF69B4?style=for-the-badge&logo=chroma&logoColor=white">
+  <img src="https://img.shields.io/badge/Qdrant-FF4500?style=for-the-badge&logo=qdrant&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Metaflow-00BFFF?style=for-the-badge&logo=metaflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/MLflow-0194E5?style=for-the-badge&logo=mlflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFC107?style=for-the-badge&logo=huggingface&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-DAA520?style=for-the-badge&logo=gemini&logoColor=white">
+</div>
 
 ---
 ![Skill Network](./3d_network1.gif)
