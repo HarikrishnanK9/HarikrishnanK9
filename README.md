@@ -28,7 +28,7 @@
   <span>🧠 <strong>Big Data</strong> &nbsp; | &nbsp;</span>
   <span>📊 <strong>Data Science</strong> &nbsp; | &nbsp;</span>
   <span>🎨 <strong>Digital Art</strong> &nbsp; | &nbsp;</span>
-  <span>🔐 <strong>Cyber Security</strong></span>
+  <span>🔐 <strong>Security</strong></span>
 </div>
 
 ---
