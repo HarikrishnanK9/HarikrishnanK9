@@ -14,10 +14,10 @@
 
 
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarikrishnanK9&show_icons=true&theme=radical" height="150px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarikrishnanK9&layout=compact&theme=radical" height="150px">
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarikrishnanK9&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarikrishnanK9&layout=compact&theme=radical)
+
 
 
 ---
