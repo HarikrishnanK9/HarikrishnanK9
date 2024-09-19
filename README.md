@@ -22,13 +22,14 @@
 
 ---
 
-### 👀 I'm interested in:
-- 💻 **Artificial Intelligence**
-- 🤖 **Large Language Models**
-- 🧠 **Big Data**
-- 📊 **Data Science**
-- 🎨 **Digital Art**
-- 🔐 **Cyber Security**
+<div align="center">
+  <span>💻 <strong>Artificial Intelligence</strong> &nbsp; | &nbsp;</span>
+  <span>🤖 <strong>Large Language Models</strong> &nbsp; | &nbsp;</span>
+  <span>🧠 <strong>Big Data</strong> &nbsp; | &nbsp;</span>
+  <span>📊 <strong>Data Science</strong> &nbsp; | &nbsp;</span>
+  <span>🎨 <strong>Digital Art</strong> &nbsp; | &nbsp;</span>
+  <span>🔐 <strong>Cyber Security</strong></span>
+</div>
 
 ---
 
