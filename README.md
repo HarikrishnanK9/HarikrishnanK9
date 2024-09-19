@@ -70,11 +70,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white">
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Faiss-000000?style=for-the-badge&logo=faiss&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Chroma-FF69B4?style=for-the-badge&logo=chroma&logoColor=white">
   <img src="https://img.shields.io/badge/Qdrant-FF4500?style=for-the-badge&logo=qdrant&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Metaflow-00BFFF?style=for-the-badge&logo=metaflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Metaflow-00BFFF?style=for-the-badge&logo=metaflow&logoColor=white">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"> -->
   <img src="https://img.shields.io/badge/MLflow-0194E5?style=for-the-badge&logo=mlflow&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging_Face-FFC107?style=for-the-badge&logo=huggingface&logoColor=white">
