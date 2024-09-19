@@ -18,7 +18,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarikrishnanK9&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarikrishnanK9&layout=compact&theme=radical)
 
-![Top Languages](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python','JavaScript','Java','C++','C#'],datasets:[{data:[45,20,15,10,10],backgroundColor:['#FF6384','#36A2EB','#FFCE56','#E7E9ED','#4BC0C0']}]},options:{plugins:{legend:{display:true}}})
 
 
 ---
