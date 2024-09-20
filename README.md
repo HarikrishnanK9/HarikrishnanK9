@@ -102,7 +102,6 @@
 
 ---
 
-![Skill Network](./3d_network1.gif)
 
 
 
