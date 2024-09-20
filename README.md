@@ -83,7 +83,6 @@
 </div>
 
 ---
-![Skill Network](./3d_network1.gif)
 
 
 
@@ -102,6 +101,9 @@
 - [Introduction to Large Language Models](https://www.cloudskillsboost.google/public_profiles/da255358-a9e4-4edf-9c21-3ab9a12aff7c/badges/6026067) - Issued by:Google Cloud
 
 ---
+
+![Skill Network](./3d_network1.gif)
+
 
 
 ### 📊 GitHub Activity Graph:
