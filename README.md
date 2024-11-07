@@ -87,7 +87,6 @@
 
 ---
 
-![Skill Network](./3d_network1.gif)
 
 ### 🏆 Certifications & Badges
 - [Deep Learning using TensorFlow](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url) – Issued by: IBM
