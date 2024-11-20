@@ -35,7 +35,7 @@
 
 ### 📘 Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Master QR Code Creation and Customization with Python] (https://www.analyticsvidhya.com/blog/2024/11/mastering-qr-codes/)
+- [Master QR Code Creation and Customization with Python](https://www.analyticsvidhya.com/blog/2024/11/mastering-qr-codes/)
 - [Building a Pneumonia Detection Model with Transfer Learning](https://medium.com/@harikrishnank497/building-a-pneumonia-detection-model-with-transfer-learning-e59db9e33877)
 - [Enhancing Movie Recommendations with TF-IDF Vectorization and K-Means Clustering](https://medium.com/@harikrishnank497/enhancing-movie-recommendations-with-tf-idf-vectorization-and-k-means-clustering-183f19a4e4f3)
 - [Parsing PDFs and Ingesting Data into Neo4j Using Python and Cypher](https://medium.com/@harikrishnank497/parsing-pdfs-and-ingesting-data-into-neo4j-using-python-4e0103144903)
