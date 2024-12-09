@@ -80,6 +80,7 @@
   <img src="https://img.shields.io/badge/Qdrant-FF4500?style=for-the-badge&logo=qdrant&logoColor=white">
   <img src="https://img.shields.io/badge/Metaflow-00BFFF?style=for-the-badge&logo=metaflow&logoColor=white">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"> 
+  <img src="https://img.shields.io/badge/KNIME-FFCB07?style=for-the-badge&logo=knime&logoColor=black">
   <img src="https://img.shields.io/badge/MLflow-0194E5?style=for-the-badge&logo=mlflow&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging_Face-FFC107?style=for-the-badge&logo=huggingface&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
