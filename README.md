@@ -85,6 +85,11 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFC107?style=for-the-badge&logo=huggingface&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Gemini-DAA520?style=for-the-badge&logo=gemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Box-0061D5?style=for-the-badge&logo=box&logoColor=white">
+  <img src="https://img.shields.io/badge/Dropbox-0061FF?style=for-the-badge&logo=dropbox&logoColor=white">
+  <img src="https://img.shields.io/badge/Minio-FF2E63?style=for-the-badge&logo=minio&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white">
 </div>
 
 ---
