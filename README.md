@@ -93,7 +93,6 @@
 </div>
 
 ---
-![](./3d_network1.gif)
 
 
 ### 🏆 Certifications & Badges
