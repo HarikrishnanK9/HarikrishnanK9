@@ -23,15 +23,6 @@
   <span>🔐 <strong>Security</strong></span>
 </div>
 
----
-
-### 📘 Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [Master QR Code Creation and Customization with Python](https://www.analyticsvidhya.com/blog/2024/11/mastering-qr-codes/)
-- [Parsing PDFs and Ingesting Data into Neo4j Using Python and Cypher](https://medium.com/@harikrishnank497/parsing-pdfs-and-ingesting-data-into-neo4j-using-python-4e0103144903)
-- [Health Profile Analysis, Revealing Disorder Patterns, Medication Guidance and Risk Classification](https://www.kaggle.com/code/harikrishnank369/health-profile-analysis-clustering-classification)
-
-<!-- BLOG-POST-LIST:END -->
 
 
 ---
@@ -84,6 +75,15 @@
 
 ---
 
+### 📘 Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+- [Master QR Code Creation and Customization with Python](https://www.analyticsvidhya.com/blog/2024/11/mastering-qr-codes/)
+- [Parsing PDFs and Ingesting Data into Neo4j Using Python and Cypher](https://medium.com/@harikrishnank497/parsing-pdfs-and-ingesting-data-into-neo4j-using-python-4e0103144903)
+- [Health Profile Analysis, Revealing Disorder Patterns, Medication Guidance and Risk Classification](https://www.kaggle.com/code/harikrishnank369/health-profile-analysis-clustering-classification)
+
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 ### 🏆 Certifications & Badges
 - [Deep Learning using TensorFlow](https://www.credly.com/badges/c5ffa435-a288-470e-8de9-0b401a557401/public_url) – Issued by: IBM
