@@ -10,14 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Enjoy+your+stay!+%F0%9F%98%8E" alt="Typing SVG" />
 </div>
 
----
-
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarikrishnanK9&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarikrishnanK9&layout=compact&theme=radical)
-
 
 
 ---
