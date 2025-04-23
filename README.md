@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/Minio-FF2E63?style=for-the-badge&logo=minio&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white">
   <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+
 </div>
 
 ---
