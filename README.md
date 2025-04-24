@@ -37,17 +37,13 @@
   <img src="https://img.shields.io/badge/Detectron2-003F87?style=for-the-badge&logo=detectron2&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
-  <img src="https://img.shields.io/badge/Pig-FFB612?style=for-the-badge&logo=pig&logoColor=white">
-  <img src="https://img.shields.io/badge/Sqoop-4CAF50?style=for-the-badge&logo=sqoop&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white">
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
   <img src="https://img.shields.io/badge/Chroma-FF69B4?style=for-the-badge&logo=chroma&logoColor=white">
   <img src="https://img.shields.io/badge/Qdrant-FF4500?style=for-the-badge&logo=qdrant&logoColor=white">
-  <img src="https://img.shields.io/badge/Metaflow-00BFFF?style=for-the-badge&logo=metaflow&logoColor=white">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"> 
-  <img src="https://img.shields.io/badge/KNIME-FFCB07?style=for-the-badge&logo=knime&logoColor=black">
   <img src="https://img.shields.io/badge/MLflow-0194E5?style=for-the-badge&logo=mlflow&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging_Face-FFC107?style=for-the-badge&logo=huggingface&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
