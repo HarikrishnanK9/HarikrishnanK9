@@ -68,6 +68,3 @@
 
 
 
-
-### 📊 GitHub Activity Graph:
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarikrishnanK9&theme=github)](https://github.com/HarikrishnanK9)
