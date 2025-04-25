@@ -12,6 +12,13 @@
 
 
 ---
+###
+
+<div align="center">
+  <img height="450" src="https://miro.medium.com/v2/resize:fit:1400/1*1oTDnw0B32cdT0J1fBmKWg.gif"  />
+</div>
+
+###
 
 ### 🛠 Technologies, Frameworks & Platforms I Work With
 <div align="center">
