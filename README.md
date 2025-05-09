@@ -67,4 +67,13 @@
 ---
 
 
+---
+
+## 📌 Contributions
+
+- 🔧 [**crewAI-tools**](https://github.com/crewAIInc/crewAI-tools)  
+  Contributed [`FileCompressorTool`](https://github.com/crewAIInc/crewAI-tools/tree/main/crewai_tools/tools/files_compressor_tool):  
+  Developed a utility tool for compressing files and directories into formats like `.zip`, `.tar`, `.tar.gz`, `.tar.bz2`, and `.tar.xz` using Python, designed to integrate smoothly with CrewAI agents.
+
+---
 
