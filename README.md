@@ -69,4 +69,10 @@
   Developed a utility tool for compressing files and directories into formats like `.zip`, `.tar`, `.tar.gz`, `.tar.bz2`, and `.tar.xz` using Python, designed to integrate smoothly with CrewAI agents.
 
 ---
+###
 
+<div align="center">
+  <img height="450" src="https://miro.medium.com/v2/resize:fit:1400/1*1oTDnw0B32cdT0J1fBmKWg.gif"  />
+</div>
+
+###
