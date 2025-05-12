@@ -10,9 +10,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Enjoy+your+stay!+%F0%9F%98%8E" alt="Typing SVG" />
 </div>
 
-
 ---
+###
 
+<div align="center">
+  <img height="450" src="https://miro.medium.com/v2/resize:fit:1400/1*1oTDnw0B32cdT0J1fBmKWg.gif"  />
+</div>
+
+###
 
 ### 🛠 Technologies, Frameworks & Platforms I Work With
 <div align="center">
@@ -69,10 +74,4 @@
   Developed a utility tool for compressing files and directories into formats like `.zip`, `.tar`, `.tar.gz`, `.tar.bz2`, and `.tar.xz` using Python, designed to integrate smoothly with CrewAI agents.
 
 ---
-###
 
-<div align="center">
-  <img height="450" src="https://miro.medium.com/v2/resize:fit:1400/1*1oTDnw0B32cdT0J1fBmKWg.gif"  />
-</div>
-
-###
