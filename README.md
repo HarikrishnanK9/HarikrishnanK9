@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-008000?style=for-the-badge&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/LLamaIndex-008080?style=for-the-badge&logo=llamaindex&logoColor=white">
-  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50.svg?style=for-the-badge&logo=CrewAI&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
