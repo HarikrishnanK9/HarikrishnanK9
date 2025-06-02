@@ -20,7 +20,7 @@
 ###
 
 
-## 📌 Contributions
+## 📌 Major Contributions
 
 - 🔧 [**crewAI-tools**](https://github.com/crewAIInc/crewAI-tools)  
   Contributed [`FileCompressorTool`](https://github.com/crewAIInc/crewAI-tools/tree/main/crewai_tools/tools/files_compressor_tool):  
