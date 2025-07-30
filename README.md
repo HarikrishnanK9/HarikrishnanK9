@@ -22,6 +22,16 @@
 
 ## 📌 Recent Contributions
 
+
+---
+
+- 📚 [**crewAI-tools**](https://github.com/crewAIInc/crewAI-tools)
+  Contributed [`arxiv_paper_tool`](https://github.com/crewAIInc/crewAI-tools/tree/main/crewai_tools/tools/arxiv_paper_tool):
+  Developed a tool that enables CrewAI agents to **search, retrieve, and summarize scientific papers from arXiv** using the arXiv API. Supports specifying topics, keywords, or authors, and returns concise summaries with links for deeper reading—ideal for research-oriented autonomous agents.
+
+---
+
+
 - 🔧 [**crewAI-tools**](https://github.com/crewAIInc/crewAI-tools)  
   Contributed [`FileCompressorTool`](https://github.com/crewAIInc/crewAI-tools/tree/main/crewai_tools/tools/files_compressor_tool):  
   Developed a utility tool for compressing files and directories into formats like `.zip`, `.tar`, `.tar.gz`, `.tar.bz2`, and `.tar.xz` using Python, designed to integrate smoothly with CrewAI agents.
