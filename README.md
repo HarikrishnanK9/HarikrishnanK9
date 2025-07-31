@@ -27,7 +27,7 @@
 
 - 📚 [**crewAI-tools**](https://github.com/crewAIInc/crewAI-tools)
   Contributed [`arxiv_paper_tool`](https://github.com/crewAIInc/crewAI-tools/tree/main/crewai_tools/tools/arxiv_paper_tool):
-  Developed a tool that enables CrewAI agents to **search, retrieve, and summarize scientific papers from arXiv** using the arXiv API. Supports specifying topics, keywords, or authors, and returns concise summaries with links for deeper reading—ideal for research-oriented autonomous agents.
+  Developed a tool that enables CrewAI agents to search, retrieve, and summarize scientific papers from arXiv using the arXiv API. Supports specifying topics, keywords, or authors, and returns concise summaries with links for deeper reading—ideal for research-oriented autonomous agents.
 
 ---
 
