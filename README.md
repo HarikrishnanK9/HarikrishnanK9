@@ -60,7 +60,6 @@
   <img src="https://img.shields.io/badge/YOLO-FF6347?style=for-the-badge&logo=yolo&logoColor=white">
   <img src="https://img.shields.io/badge/Detectron2-003F87?style=for-the-badge&logo=detectron2&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white">
