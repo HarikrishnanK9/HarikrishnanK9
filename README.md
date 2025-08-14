@@ -48,7 +48,7 @@
 ## Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Question-Answering Pipeline with DSPy]([https://www.analyticsvidhya.com/blog/2024/11/mastering-qr-codes/](https://medium.com/@harikrishnank497/building-a-simple-question-answering-pipeline-with-dspy-a6d896a2116f)
+- [Building a Simple Question-Answering Pipeline with DSPy](https://www.analyticsvidhya.com/blog/2024/11/mastering-qr-codes/](https://medium.com/@harikrishnank497/building-a-simple-question-answering-pipeline-with-dspy-a6d896a2116f)
 - [Parsing PDFs and Ingesting Data into Neo4j Using Python and Cypher](https://medium.com/@harikrishnank497/parsing-pdfs-and-ingesting-data-into-neo4j-using-python-4e0103144903)
 - [Health Profile Analysis, Revealing Disorder Patterns, Medication Guidance and Risk Classification](https://www.kaggle.com/code/harikrishnank369/health-profile-analysis-clustering-classification)
 - [Master QR Code Creation and Customization with Python](https://www.analyticsvidhya.com/blog/2024/11/mastering-qr-codes/)
