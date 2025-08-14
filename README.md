@@ -45,6 +45,19 @@
   Developed a utility tool for compressing files and directories into formats like `.zip`, `.tar`, `.tar.gz`, `.tar.bz2`, and `.tar.xz` using Python, designed to integrate smoothly with CrewAI agents.
 
 ---
+## Blog Posts:
+
+<!-- BLOG-POST-LIST:START -->
+- [Building a Simple Question-Answering Pipeline with DSPy]([https://www.analyticsvidhya.com/blog/2024/11/mastering-qr-codes/](https://medium.com/@harikrishnank497/building-a-simple-question-answering-pipeline-with-dspy-a6d896a2116f))
+- [Parsing PDFs and Ingesting Data into Neo4j Using Python and Cypher](https://medium.com/@harikrishnank497/parsing-pdfs-and-ingesting-data-into-neo4j-using-python-4e0103144903)
+- [Health Profile Analysis, Revealing Disorder Patterns, Medication Guidance and Risk Classification](https://www.kaggle.com/code/harikrishnank369/health-profile-analysis-clustering-classification)
+- [Master QR Code Creation and Customization with Python](https://www.analyticsvidhya.com/blog/2024/11/mastering-qr-codes/)
+- [Building a Pneumonia Detection Model with Transfer Learning](https://medium.com/@harikrishnank497/building-a-pneumonia-detection-model-with-transfer-learning-e59db9e33877)
+- [Enhancing Movie Recommendations with TF-IDF Vectorization and K-Means Clustering](https://medium.com/@harikrishnank497/enhancing-movie-recommendations-with-tf-idf-vectorization-and-k-means-clustering-183f19a4e4f3)
+
+<!-- BLOG-POST-LIST:END -->
+
+
 ## 🛠 Technologies, Frameworks & Platforms I Work With
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
